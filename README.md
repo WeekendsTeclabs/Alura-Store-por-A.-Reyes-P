@@ -1,11 +1,6 @@
 # Alura-Store-por-A.-Reyes-P
 Challenge de Alura Latam generado por mi con la resolución al analisis de los datos de 4 tiendas y en la revisión de los antecedentes de búsqueda de tiendas mas ineficientes en al cual solo 1 contaría para ser cerrada.
 
-Claro, aquí tienes el contenido **completo, limpio y listo para copiar/pegar** en tu `README.md` del proyecto **Alura Store**:
-
----
-
-```markdown
 # 🛒 Análisis de Eficiencia para Tiendas - Proyecto Alura Store
 
 ## 📌 Propósito del proyecto
@@ -62,7 +57,7 @@ La tienda más ineficiente fue identificada, excluyendo la tienda con mayor volu
 >  
 > Considerando que la tienda con más ventas debe mantenerse, se excluyó del análisis de cierre.  
 >  
-> La tienda con **menor score de eficiencia relativa** fue identificada como la **más ineficiente**, siendo la principal candidata para cierre o reestructuración.  
+> La tienda con **menor score de eficiencia relativa** fue identificada como la **más ineficiente**, siendo la principal candidata para cierre.
 > Esta decisión está basada en datos cuantificables y comparables entre todas las tiendas.
 
 ---
@@ -102,7 +97,7 @@ scikit-learn==1.4.2
 Este proyecto fue desarrollado como parte de un desafío de análisis de datos.
 Para sugerencias, mejoras o contacto profesional:
 
-📧 [tu-email@dominio.com](mailto:tu-email@dominio.com)
+📧 Weekends Nomads.
 
 ---
 
@@ -111,11 +106,5 @@ Para sugerencias, mejoras o contacto profesional:
 Este proyecto se publica bajo la Licencia MIT.
 Puedes usarlo y modificarlo libremente con atribución correspondiente.
 
-```
 
----
-
-✅ **Puedes copiar este contenido y pegarlo directamente en tu archivo `README.md`.**  
-¿Deseas también que te entregue el contenido en un archivo descargable (`README.md`) o todo empaquetado en ZIP para compartir?
-```
 
